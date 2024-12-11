@@ -1,4 +1,4 @@
-{
+[
     "Burhanverse/Noti",
     "revenge-mod/revenge-manager",
     "rebelonion/Dantotsu",
@@ -34,4 +34,4 @@
     "j-hc/revanced-magisk-module",
     "Magisk-Modules-Alt-Repo/systemless-adblocker",
     "localsend/localsend"
-}
+]
